@@ -1,2 +1,2 @@
 # modalarray
-This repository contained modal windows in array on clear javascript
+This repository contains modal windows in array on clear javascript
